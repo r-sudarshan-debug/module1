@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(137, 207, 240);
+}
+
+#myHeading{
+    /* float: left; */
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    
+}
+
+#myHead{
+    margin:auto;
+    width:40%;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#left{
+    position: absolute;
+    left:0px;
+    
+}
+
+#right{
+    /* float:left; */
+    position: absolute;
+    right:0px
+}
+
+#myBody{
+    color:purple;
+}
+
+img{
+    width:100px;
+    height:100px
+}
+#myBody{
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #000000;
+}
